@@ -1,7 +1,8 @@
 # Criminal-Database-Management-System
 
 ### Tools & technologies used: Python, tkinter, MySQL
-– An application to manage the data of criminals  effectively, with user friendly and interactive GUI.
+– An application to manage the data of criminals effectively, with user friendly and interactive GUI.
+- CRUD operations can be performed on the data.
 
 ### Criminal System Page
 ![image](https://github.com/Aparajita-singh/Criminal-Database-Management-System/assets/97401659/955ec565-4b7c-41df-be58-6ba9048d9676)
@@ -19,6 +20,7 @@
   - All fields must be filled.
   - Contact should be a 10 digit number.
   - Password and Confirm Password should be the same.
+    
 ![image](https://github.com/Aparajita-singh/Criminal-Database-Management-System/assets/97401659/68e5d643-7b37-487d-a3e3-0f76cf0e6f81)
 
 ![image](https://github.com/Aparajita-singh/Criminal-Database-Management-System/assets/97401659/0af57818-4cd3-44e9-8f29-40ac9d3a9e12)
